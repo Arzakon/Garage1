@@ -1,0 +1,26 @@
+body{
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    background-color:beige;
+
+}
+
+
+/*Allmänt*/
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+
+
+/*Headern*/
+header{
+    background-color:beige;
+    color:darkslateblue;
+    padding-top:30px;
+    min-height:70px;
+    border-bottom:red 4px solid;
+}
+
