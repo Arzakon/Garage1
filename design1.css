@@ -52,7 +52,7 @@ header #branding h1{
 
 header nav{
     float:right;
-    margin-top:15px;
+    margin-top:20px;
 }
 
 header a:hover{
@@ -65,7 +65,12 @@ header a:hover{
     background:url("boka parkering.jpg") 0px -200px;
     background-repeat: no-repeat;
     background-size:1500px;
-
     text-align:center;
-    color:white;
+    color:beige;
+}
+
+#showcase h1{
+    margin-top:50px;
+    font-size:30px;
+    margin-bottom:20px;
 }
