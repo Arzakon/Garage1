@@ -147,3 +147,18 @@ footer{
     padding-top: 120px;
 
 }
+
+/*Sida 3*/
+
+#tjänster{
+    min-height:400px;
+    background:url("verkstad.jpg") 0px -200px;
+    background-repeat:no-repeat;
+    background-size:1500px;
+    text-align:center;
+    color:black;
+}
+
+#tjänster h1{
+    color:white;
+}
