@@ -115,3 +115,35 @@ footer{
     background-color:red;
 
 }
+
+
+
+
+
+
+/*Sida 2*/
+
+#bokning{
+    min-height:400px;
+    background:url("bokning.jpg") 0px -200px;
+    background-repeat: no-repeat;
+    background-size:1500px;
+    text-align:center;
+    color:black;
+    
+    
+}
+
+
+
+
+
+#bokning .kalender{
+    width:14%;
+}
+
+#bokning h1{
+    color:blue;
+    padding-top: 120px;
+
+}
