@@ -17,6 +17,7 @@ body{
 
 /*Headern*/
 header{
+    
     background-color:beige;
     color:darkslateblue;
     padding-top:30px;
@@ -37,12 +38,14 @@ header ul{
 }
 
 header li{
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
     float:left;
     display:inline;
     padding-right:20px;
 }
 
 header #branding{
+    font-family: 'Spirax', cursive;
     float:left;
 }
 
@@ -203,6 +206,7 @@ footer{
 }
 
 #bokning h1{
+    font-family: 'Indie Flower', cursive;
     color:blue;
     padding-top: 120px;
 
